@@ -1,9 +1,10 @@
 {
-    "name": "sinon",
+    "name": "sinon-node-fakeserver",
     "description": "JavaScript test spies, stubs and mocks.",
     "version": "1.9.1",
     "homepage": "http://cjohansen.no/sinon/",
     "author": "Christian Johansen",
+    "private": true,
     "repository": {
         "type": "git",
         "url": "http://github.com/cjohansen/Sinon.JS.git"
