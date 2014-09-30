@@ -2,7 +2,7 @@
 
 [![Build status](https://secure.travis-ci.org/cjohansen/Sinon.JS.png?branch=master)](http://travis-ci.org/cjohansen/Sinon.JS)
 
-Standalone and test framework agnostic JavaScript test spies, stubs and mocks.
+Standalone and test framework agnostic JavaScript test spies, stubs and mocks. This fork allows usage of XMLFakeServer in a node environment.
 
 ## Installation
 
